@@ -5,10 +5,10 @@ body {
 }
 
 h1 {
+	font-family: "Lisu Bosa", serif;
 	text-align: center;
 	line-height: 2em;
 	font-style: oblique;
-	letter-spacing: 0.2em;
 	text-shadow: 0 1px 2px #0005;
 }
 
