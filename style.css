@@ -21,3 +21,10 @@ a:link {
 a:visited {
 	color: #1700c3;
 }
+
+ul {
+	background-color: rgba(184, 240, 245, 0.958);
+	padding: 75px;
+	border: groove;
+	border-radius: 10px;
+}
